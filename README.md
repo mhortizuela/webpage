@@ -14,3 +14,5 @@ Write 2–3 sentences about your project.
 
 ## Screenshot
 ![Project screenshot](image.jpg)
+
+# Author: Jackie
