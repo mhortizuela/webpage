@@ -17,3 +17,6 @@ Write 2–3 sentences about your project.
 
 ## Codes
 ```html<p>Hello</p>```
+
+## Author
+Manny R. Hortizuela
